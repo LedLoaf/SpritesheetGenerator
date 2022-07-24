@@ -1,0 +1,32 @@
+<TextureList Filename="sheet.png">
+	<image name="Agahnim'sShadow.png" x="0" y="0" w="144" h="102"/>
+	<image name="AnglerFish.png" x="144" y="0" w="168" h="144"/>
+	<image name="Angler_Key.png" x="0" y="102" w="17" h="10" rotation="90"/>
+	<image name="Armosknight_LA.png" x="17" y="102" w="96" h="96"/>
+	<image name="Blade_TrapLA.png" x="312" y="0" w="48" h="48"/>
+	<image name="BonePutter.png" x="360" y="0" w="81" h="57"/>
+	<image name="BowWow.png" x="312" y="57" w="123" h="123"/>
+	<image name="DeathEye.png" x="113" y="144" w="198" h="156" rotation="90"/>
+	<image name="GiantGhini.png" x="0" y="198" w="93" h="90"/>
+	<image name="HardhatbeetleOracle.png" x="0" y="288" w="48" h="48"/>
+	<image name="Hippo_Model.png" x="435" y="57" w="70" h="106"/>
+	<image name="LA_Piece_of_Power.png" x="113" y="102" w="24" h="24"/>
+	<image name="LikeLikeLA.png" x="441" y="0" w="45" h="48" rotation="90"/>
+	<image name="MegaThwomp.png" x="311" y="180" w="96" h="93"/>
+	<image name="MegaThwompcracked.png" x="407" y="180" w="96" h="93"/>
+	<image name="Mr.Write.png" x="311" y="273" w="96" h="96"/>
+	<image name="RedHinox.png" x="407" y="273" w="96" h="96"/>
+	<image name="Richard.png" x="48" y="288" w="48" h="45" rotation="90"/>
+	<image name="ShroudedStalfosLA.png" x="96" y="300" w="54" h="87"/>
+	<image name="SparkLA.png" x="48" y="333" w="48" h="48"/>
+	<image name="SpikedBeetleLA.png" x="0" y="336" w="48" h="45"/>
+	<image name="SwordMoblin.png" x="0" y="381" w="69" h="54" rotation="90"/>
+	<image name="TalTal.png" x="150" y="300" w="160" h="128"/>
+	<image name="Walrus.png" x="310" y="369" w="90" h="96" rotation="90"/>
+	<image name="Warp_Point_LA.png" x="400" y="369" w="96" h="96"/>
+	<image name="Wind_Fish's_Egg.png" x="69" y="387" w="58" h="50" rotation="90"/>
+	<image name="Wind_Fish.png" x="127" y="428" w="130" h="82"/>
+	<image name="WitchLA.png" x="0" y="437" w="90" h="48" rotation="90"/>
+	<image name="ZolGreenOracle.png" x="90" y="437" w="36" h="33"/>
+</TextureList>
+
